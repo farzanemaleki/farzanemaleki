@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Farzane Maleki
+### Hi there 👋 I'm Farzaneh Maleki
 
 <!--
 **farzanemaleki/farzanemaleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
